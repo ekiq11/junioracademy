@@ -1,6 +1,6 @@
 {
-  "name": "JuniorAcademy",
-  "short_name": "Junior",
+  "name": "Junior",
+  "short_name": "JuniorAcademy",
   "start_url": "https://www.junioracademy.id",
   "display": "standalone",
   "background_color": "#fff",
